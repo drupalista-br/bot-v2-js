@@ -2,6 +2,6 @@
   "name": "bot-arg",
   "version": "1.0.0",
   "description": "",
-  "main": "Arg.js",
+  "main": "arg.js",
   "license": "ISC"
 }
