@@ -1,0 +1,11 @@
+{
+    "name": "bot-cheerio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cheerio.js",
+    "license": "ISC",
+    "dependencies": {
+        "bot-arg": "github:drupalista-br/bot-v2-js#arg",
+        "cheerio": "^1.1.2"
+    }
+}
